@@ -57,6 +57,12 @@
 			<version>2.1.7.RELEASE</version>
 		</dependency>
 
+		<dependency>
+			<groupId>org.camunda.bpm.springboot</groupId>
+			<artifactId>camunda-bpm-spring-boot-starter-rest</artifactId>
+			<version>3.4.0-alpha1</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
